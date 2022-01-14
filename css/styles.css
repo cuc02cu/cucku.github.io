@@ -1,0 +1,77 @@
+.head {
+    text-align: center;
+    padding: 60px 30px;   
+}
+
+.row > div {
+    background-color: rgb(220, 242, 255);
+    border: 5px solid rgb(255, 255, 255);
+    padding: 10px;
+    text-align: right;
+    position: relative;
+}
+
+h1 {
+    text-align: right;
+}
+
+.row {
+    margin: 10px;
+}
+
+#ap1{
+    position: relative;
+}
+
+#p1{
+    width: 90px;
+    height: 60px;
+    background-color: rgb(193, 193, 255);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#p2{
+    width: 90px;
+    height: 60px;
+    background-color: rgb(193, 193, 255);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#p3{
+    width: 90px;
+    height: 60px;
+    background-color: rgb(193, 193, 255);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.col-md-4 {
+    position: relative;
+}
+
+#q1 {
+    position: absolute;
+    right: 17px;
+    z-index: 1;
+}
+
+#q2 {
+    position: absolute;
+    right: 17px;
+    z-index: 1;
+}
+
+#q3 {
+    position: absolute;
+    right: 17px;
+    z-index: 1;
+}
+
+.textdown {
+    padding-top: 60px;
+}
