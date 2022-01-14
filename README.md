@@ -1,2 +1,54 @@
-# cucku.github.io
-<h1> Hallo </h1>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <title>Bootstrap Starter Page</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+<body>
+    <h1 class="head">
+          Our menu 
+    </h1>
+    <div class="container-fluid">
+      <div class="row">
+        <div id="ap2" class="col-md-4">
+            <h1 id="q2">Q1</h1>
+            <p id="p2"></p>
+            <p class="textdown">
+                We’re about two miles from Altos de Polonia, the village where they live in Colombia’s Córdoba department. I’d followed them across bushland and farm fields, scaling and sliding under fences as they searched for sloths. Climbing’s the easy part, Benites says—spotting a sloth can take days.
+            </p>
+        </div>
+        <div id="ap1" class="col-md-4">
+            <h1 id="q1">Q2</h1>
+            <div>
+                <p id="p1"></p>
+            </div>
+            <p class="textdown">
+                We’re about two miles from Altos de Polonia, the village where they live in Colombia’s Córdoba department. I’d followed them across bushland and farm fields, scaling and sliding under fences as they searched for sloths. Climbing’s the easy part, Benites says—spotting a sloth can take days.
+            </p>
+        </div>
+        <div id="ap3" class="col-md-4">
+            <h1 id="q3">Q3</h1>
+            <p id="p3"></p>
+            <p class="textdown">
+                We’re about two miles from Altos de Polonia, the village where they live in Colombia’s Córdoba department. I’d followed them across bushland and farm fields, scaling and sliding under fences as they searched for sloths. Climbing’s the easy part, Benites says—spotting a sloth can take days.
+            </p>
+        </div>
+    </div>  
+    </div>
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
